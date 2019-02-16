@@ -40,3 +40,27 @@ ul {
 	padding-left: 10px;
 	margin: 2px 10px 2px 5px;
 }
+
+.red-box{
+	border: 5px red solid;
+}
+
+.little-orange{
+	border: 5px orange solid;
+}
+
+.whole-container{
+	border: 5px green solid;
+}
+
+.blue-box{
+	border: 5px blue solid;
+}
+
+.blue-again{
+	border: 5px blue solid;
+}
+
+.date-border{
+	border: 5px purple solid;
+}
