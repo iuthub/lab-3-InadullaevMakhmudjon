@@ -10,6 +10,13 @@
 	margin-top: 10px;
 }
 
+.FriendContainer{
+		margin: 10px;
+		width: auto;
+		height: auto;
+		float: left;
+}
+
 body{
 	background: url("http://www.photos-public-domain.com/wp-content/uploads/2012/05/sky-blue-brick-wall-texture.jpg");
 }
