@@ -44,6 +44,7 @@ ul {
 .red-box{
 	border: 0px #A8F0F0 solid;
 	text-align: right;
+	background: #A8F0F0;
 }
 
 .little-orange{
@@ -56,6 +57,21 @@ ul {
 
 .blue-box{
 	border: 4px #C2E9E9 solid;
+}
+
+h1:hover{
+	color: yellow;
+	cursor: pointer;
+}
+
+p:hover{
+	color: yellow;
+	cursor: pointer;
+}
+
+h2:hover{
+	color: yellow;
+	cursor: pointer;
 }
 
 .date-border{
